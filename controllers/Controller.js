@@ -1,5 +1,5 @@
 export const home = async (req, res) => {
     
    
-      return res.render("index.html");
+      return res.render("table.html");
   };
